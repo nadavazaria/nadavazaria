@@ -4,7 +4,7 @@
 
  - I’m currently expanding my knowledge in python and other backend languages like cpp and java.
 
- - As of righ now I'm looking for ocupation as a fullstack engeneer or a backend developer.
+ - As of right now I'm looking for ocupation as a fullstack engeneer or a backend developer.
   
 You can reach out to me on my Email nadav.azaria98@gmail.com or on whatsapp at +972504304599.
 
